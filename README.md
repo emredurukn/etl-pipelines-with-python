@@ -7,6 +7,7 @@ Sample codes are located under **etl_pipelines** folder.
 ## ETL Pipelines
 
 - [Mixpanel GCS Backup](etl_pipelines/mixpanel_gcs_backup.py)
+- [BigQuery Users Dataset Permissions](etl_pipelines/bq_users_dataset_permissions.py)
 
 <br>
 
